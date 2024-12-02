@@ -1,4 +1,4 @@
-public class App {
+public class principal {
     public static void main(String[] args) {
         // Crear vehículos
         Vehiculo seatPanda = new Vehiculo("Coche", "Seat Panda", 4, 0.0);
